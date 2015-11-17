@@ -35,15 +35,15 @@ namespace Snake
             {
                 x = x + offset;
             }
-            if (direction == Direction.LEFT)
+            else if (direction == Direction.LEFT)
             {
                 x = x - offset;
             }
-            if (direction == Direction.UP)
+            else if (direction == Direction.UP)
             {
                 y = y + offset;
             }
-            if (direction == Direction.DOWN)
+            else if (direction == Direction.DOWN)
             {
                 y = y - offset;
             }
