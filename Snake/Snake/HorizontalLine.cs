@@ -15,8 +15,6 @@ namespace Snake
                 Point p = new Point(x, y, sym);
                 pList.Add(p);
             }
-           
         }
-
      }
 }
