@@ -1,5 +1,0 @@
-G:\Snake\Snake\Snake\bin\Debug\Snake.exe
-G:\Snake\Snake\Snake\bin\Debug\Snake.pdb
-G:\Snake\Snake\Snake\obj\x86\Debug\ResolveAssemblyReference.cache
-G:\Snake\Snake\Snake\obj\x86\Debug\Snake.exe
-G:\Snake\Snake\Snake\obj\x86\Debug\Snake.pdb
